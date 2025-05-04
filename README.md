@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/tdrkn/thedrkn.github.io/refs/heads/main/orange_cat.png" alt="orange super cat!" height="30" **Danil Rastyapin**  
+# <img src="https://raw.githubusercontent.com/tdrkn/thedrkn.github.io/refs/heads/main/orange_cat.png" alt="orange super cat!" height="30"> **Danil Rastyapin**  
 
 [![Telegram](https://img.shields.io/badge/Telegram-@tdrkn-26A5E4?logo=telegram&logoColor=white)](https://t.me/tdrkn) 
 [![Email](https://img.shields.io/badge/Email-danil.rastyapin@gmail.com-D14836?logo=gmail&logoColor=white)](mailto:danil.rastyapin@gmail.com)
